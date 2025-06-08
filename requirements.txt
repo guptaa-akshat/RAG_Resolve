@@ -1,0 +1,10 @@
+faiss-cpu
+numpy
+psycopg2-binary
+sentence-transformers
+python-dotenv
+python-docx
+langchain-core
+langchain-groq
+groq
+
