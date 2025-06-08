@@ -15,11 +15,13 @@ RAGResolve is an intelligent Retrieval-Augmented Generation (RAG) system designe
 
 ```bash
 python main.py
+```bash
 
 
 Install Requirements
 ```bash
 pip install -r requirements.txt
+```bash
 
 
 
@@ -32,3 +34,4 @@ PG_USER=DBUSER
 PG_PASSWORD=PASSWORD
 PG_HOST=localhost
 PG_PORT=PORT
+```bash
